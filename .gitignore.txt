@@ -1,0 +1,9 @@
+env_restaurant/
+venv/
+.venv/
+venv_practica1/
+db.sqlite3
+__pycache__/
+*.pyc
+.vscode/
+.idea/
